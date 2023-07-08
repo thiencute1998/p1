@@ -15,7 +15,7 @@ use Illuminate\Support\Facades\Route;
 
 Route::get('/', function () {
     return view('viewer.pages.index');
-});
+})->name('index');
 
 Route::get('/products', function () {
     return view('viewer.pages.products');

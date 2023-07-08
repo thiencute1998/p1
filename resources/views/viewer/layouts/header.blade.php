@@ -8,7 +8,7 @@
                     <!-- Logo -->
                     <div class="grve-logo grve-position-left">
                         <div class="grve-wrapper">
-                            <a href="https://uno-plastics.com/">
+                            <a href="{{route('index')}}">
                                 <img class="grve-default" src="{{asset('assets/viewer/images/logo_1.png')}}" alt="Plastpac | The Sustainable Wax Box Alternative" width="612" height="193">
                                 <img class="grve-sticky" src="{{asset('assets/viewer/images/logo_2.png')}}" alt="Plastpac | The Sustainable Wax Box Alternative" width="346" height="71">
                             </a>
@@ -36,7 +36,7 @@
                     <!-- Logo -->
                     <div class="grve-logo grve-position-left">
                         <div class="grve-wrapper">
-                            <a href="https://uno-plastics.com/">
+                            <a href="{{route('index')}}">
                                 <img class="grve-logo-responsive" src="{{asset('assets/viewer/images/logo_2.png')}}" alt="Plastpac | The Sustainable Wax Box Alternative" width="346" height="71">
                             </a>
                         </div>

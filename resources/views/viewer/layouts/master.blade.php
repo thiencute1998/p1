@@ -17,17 +17,17 @@
     </script>
     <!-- End Google Tag Manager for WordPress by gtm4wp.com -->
     <!-- This site is optimized with the Yoast SEO plugin v20.9 - https://yoast.com/wordpress/plugins/seo/ -->
-    <title>Home - Plastpac | The Sustainable Wax Box Alternative</title>
+    <title>Home - Uno-Plastpac | The Sustainable Wax Box Alternative</title>
     <meta name="description"
-          content="Go green with Plastpacs sustainable plastic corrugated packaging for the food industry. Visit our website today and consult us."/>
+          content="Go green with Uno-Plastpacs sustainable plastic corrugated packaging for the food industry. Visit our website today and consult us."/>
     <link rel="canonical" href="https://uno-plastics.com/"/>
     <meta property="og:locale" content="en_US"/>
     <meta property="og:type" content="website"/>
-    <meta property="og:title" content="Home - Plastpac | The Sustainable Wax Box Alternative"/>
+    <meta property="og:title" content="Home - Uno-Plastpac | The Sustainable Wax Box Alternative"/>
     <meta property="og:description"
           content="Go green with Plastpacs sustainable plastic corrugated packaging for the food industry. Visit our website today and consult us."/>
     <meta property="og:url" content="https://uno-plastics.com/"/>
-    <meta property="og:site_name" content="Plastpac | The Sustainable Wax Box Alternative"/>
+    <meta property="og:site_name" content="Uno-Plastpac | The Sustainable Wax Box Alternative"/>
     <meta property="article:modified_time" content="2022-04-13T07:01:17+00:00"/>
     <meta name="twitter:card" content="summary_large_image"/>
     <meta name="twitter:label1" content="Est. reading time"/>
