@@ -46,7 +46,7 @@
                                                                        aria-atomic="true"></p>
                                     <ul></ul>
                                 </div>
-                                <form action="/contact-us/#wpcf7-f70-p55-o1" method="post"
+                                <form action="#" method="get"
                                       class="wpcf7-form init" aria-label="Contact form"
                                       novalidate="novalidate" data-status="init">
                                     <div style="display: none;">
@@ -103,7 +103,7 @@
                                     </div>
                                     <p><input
                                             class="wpcf7-form-control has-spinner wpcf7-submit btn-submit"
-                                            type="submit" value="Submit"/>
+                                            type="button" value="Submit"/>
                                     </p>
                                     <div class="wpcf7-response-output" aria-hidden="true"></div>
                                 </form>

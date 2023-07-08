@@ -1,5 +1,30 @@
 @extends('viewer.layouts.master')
 @section('page-title')
+    <style type="text/css">
+        .grve-bg-banner{
+            position: absolute;
+            width: 100%;
+            height: 100%;
+            top: 0px;
+            left: 0px;
+            z-index: 0;
+            -webkit-backface-visibility: hidden;
+            -webkit-transition: opacity .4s ease;
+            -moz-transition: opacity .4s ease;
+            -ms-transition: opacity .4s ease;
+            -o-transition: opacity .4s ease;
+            transition: opacity .4s ease;
+        }
+        .grve-bg-banner img{
+            position: absolute;
+            width: 100%;
+            max-width: none;
+            top: 50%;
+            left: 50%;
+            -webkit-transform: translate3d(-50%, -50%, 0);
+            transform: translate3d(-50%, -50%, 0);
+        }
+    </style>
     <div id="grve-feature-section" data-height="75" style="background-color: #ffffff;min-height:200px;" class="grve-with-video grve-custom-size grve-bg-parallax">
         <div class="grve-wrapper clearfix" style="height:75vh; min-height:200px;">
             <div class="grve-content grve-align-center-center" data-animation="fade-in">
@@ -19,9 +44,13 @@
         </div>
         <div class="grve-background-wrapper">
             <div class="grve-bg-video grve-html5-bg-video" data-video-device="yes">
-                <video  loop="loop" muted="muted" autoplay="autoplay" preload="auto">
-                    <source src='{{asset('assets/viewer/video/vegetables.mp4')}}' type="video/mp4">
-                </video>
+{{--                <video  loop="loop" muted="muted" autoplay="autoplay" preload="auto">--}}
+{{--                    <source src='{{asset('assets/viewer/video/vegetables.mp4')}}' type="video/mp4">--}}
+{{--                </video>--}}
+                <img src="{{asset('assets/viewer/images/banner.jpg')}}" alt="">
+            </div>
+            <div class="grve-bg-banner">
+                <img src="{{asset('assets/viewer/images/banner.jpg')}}" alt="">
             </div>
             <div class="grve-bg-overlay" style="background-color:rgba(0,0,0,0.30);"></div>			</div>
     </div>

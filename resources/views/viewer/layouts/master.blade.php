@@ -20,20 +20,20 @@
     <title>Home - Plastpac | The Sustainable Wax Box Alternative</title>
     <meta name="description"
           content="Go green with Plastpacs sustainable plastic corrugated packaging for the food industry. Visit our website today and consult us."/>
-    <link rel="canonical" href="https://plastpac.com/"/>
+    <link rel="canonical" href="https://uno-plastics.com/"/>
     <meta property="og:locale" content="en_US"/>
     <meta property="og:type" content="website"/>
     <meta property="og:title" content="Home - Plastpac | The Sustainable Wax Box Alternative"/>
     <meta property="og:description"
           content="Go green with Plastpacs sustainable plastic corrugated packaging for the food industry. Visit our website today and consult us."/>
-    <meta property="og:url" content="https://plastpac.com/"/>
+    <meta property="og:url" content="https://uno-plastics.com/"/>
     <meta property="og:site_name" content="Plastpac | The Sustainable Wax Box Alternative"/>
     <meta property="article:modified_time" content="2022-04-13T07:01:17+00:00"/>
     <meta name="twitter:card" content="summary_large_image"/>
     <meta name="twitter:label1" content="Est. reading time"/>
     <meta name="twitter:data1" content="4 minutes"/>
     <script type="application/ld+json" class="yoast-schema-graph">
-        {"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://plastpac.com/","url":"https://plastpac.com/","name":"Home - Plastpac | The Sustainable Wax Box Alternative","isPartOf":{"@id":"https://plastpac.com/#website"},"datePublished":"2017-07-07T08:45:33+00:00","dateModified":"2022-04-13T07:01:17+00:00","description":"Go green with Plastpacs sustainable plastic corrugated packaging for the food industry. Visit our website today and consult us.","breadcrumb":{"@id":"https://plastpac.com/#breadcrumb"},"inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["https://plastpac.com/"]}]},{"@type":"BreadcrumbList","@id":"https://plastpac.com/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home"}]},{"@type":"WebSite","@id":"https://plastpac.com/#website","url":"https://plastpac.com/","name":"Plastpac | The Sustainable Wax Box Alternative","description":"The preferred packaging solution","potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://plastpac.com/?s={search_term_string}"},"query-input":"required name=search_term_string"}],"inLanguage":"en-US"}]}
+        {"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://uno-plastics.com/","url":"https://uno-plastics.com/","name":"Home - Plastpac | The Sustainable Wax Box Alternative","isPartOf":{"@id":"https://uno-plastics.com/#website"},"datePublished":"2017-07-07T08:45:33+00:00","dateModified":"2022-04-13T07:01:17+00:00","description":"Go green with Plastpacs sustainable plastic corrugated packaging for the food industry. Visit our website today and consult us.","breadcrumb":{"@id":"https://uno-plastics.com/#breadcrumb"},"inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["https://uno-plastics.com/"]}]},{"@type":"BreadcrumbList","@id":"https://uno-plastics.com/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home"}]},{"@type":"WebSite","@id":"https://uno-plastics.com/#website","url":"https://uno-plastics.com/","name":"Plastpac | The Sustainable Wax Box Alternative","description":"The preferred packaging solution","potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://uno-plastics.com/?s={search_term_string}"},"query-input":"required name=search_term_string"}],"inLanguage":"en-US"}]}
     </script>
     <!-- / Yoast SEO plugin. -->
 
@@ -140,7 +140,7 @@
     <link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://plastpac.com/xmlrpc.php?rsd"/>
     <link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://plastpac.com/wp-includes/wlwmanifest.xml"/>
     <meta name="generator" content="WordPress 6.2.2"/>
-    <link rel='shortlink' href='https://plastpac.com/'/>
+    <link rel='shortlink' href='https://uno-plastics.com//>
     <link rel="alternate" type="application/json+oembed"
           href="https://plastpac.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fplastpac.com%2F"/>
     <link rel="alternate" type="text/xml+oembed"
@@ -313,7 +313,7 @@
             <div class="grve-modal-wrapper">
                 <div class="grve-modal-content">
                     <div class="grve-modal-item">
-                        <form class="grve-search grve-search-modal" method="get" action="https://plastpac.com/">
+                        <form class="grve-search grve-search-modal" method="get" action="https://uno-plastics.com/">
                             <div class="grve-search-input-wrapper grve-heading-color">
                                 <div class="grve-search-placeholder grve-h1 grve-typed-placeholder"><span
                                         class="grve-heading-color"
@@ -381,7 +381,7 @@
                                     Plastpac | The Sustainable Wax Box Alternative
                                 </div>
 
-                                <form id="grve_login_form" action="https://plastpac.com/" method="post">
+                                <form id="grve_login_form" action="" method="post">
 
                                     <div class="grve-form-field">
                                         <input class="grve-form-control required" name="grve_user_login" type="text"
@@ -414,7 +414,7 @@
                                 </div>
                                 <span class="grve-login-form-description grve-link-text">Enter the username or e-mail you used in your profile. A password reset link will be sent to you by email.</span>
 
-                                <form id="grve_reset_password_form" action="https://plastpac.com/" method="post">
+                                <form id="grve_reset_password_form" action="" method="post">
                                     <div class="grve-form-field">
                                         <input class="grve-form-control required" name="grve_user_or_email"
                                                id="grve_user_or_email" type="text" placeholder="Username or E-mail"/>

@@ -8,22 +8,22 @@
                         </div></div><div class="grve-column wpb_column grve-column-1-3" ><div class="grve-column-wrapper" ><div class="grve-element grve-image grve-align-center" style="">  <div class="grve-image-wrapper"><img width="192" height="65" src="https://plastpac.com/wp-content/uploads/2020/08/made-in-usa-1.png" class="attachment-full size-full" alt="made in the USA" decoding="async" loading="lazy" />   </div></div></div></div><div class="grve-column wpb_column grve-column-1-3 grve-align-center" ><div class="grve-column-wrapper" >			<div class="grve-element grve-social grve-align-center" style="">
                                 <ul>
                                     <li>
-                                        <a href="https://twitter.com/plastpac" class="grve-extra-small grve-circle grve-with-shape grve-simple grve-bg-primary-1" aria-label="Twitter" target="_blank" rel="noopener noreferrer">
+                                        <a href="https://twitter.com/" class="grve-extra-small grve-circle grve-with-shape grve-simple grve-bg-primary-1" aria-label="Twitter" target="_blank" rel="noopener noreferrer">
                                             <i class="grve-text-white fa fa-twitter"></i>
                                         </a>
                                     </li>
                                     <li>
-                                        <a href="https://www.facebook.com/plastpacbrand/" class="grve-extra-small grve-circle grve-with-shape grve-simple grve-bg-primary-1" aria-label="Facebook" target="_blank" rel="noopener noreferrer">
+                                        <a href="https://www.facebook.com/" class="grve-extra-small grve-circle grve-with-shape grve-simple grve-bg-primary-1" aria-label="Facebook" target="_blank" rel="noopener noreferrer">
                                             <i class="grve-text-white fa fa-facebook"></i>
                                         </a>
                                     </li>
                                     <li>
-                                        <a href="http://www.instagram.com/plastpac" class="grve-extra-small grve-circle grve-with-shape grve-simple grve-bg-primary-1" aria-label="Instagram" target="_blank" rel="noopener noreferrer">
+                                        <a href="http://www.instagram.com/" class="grve-extra-small grve-circle grve-with-shape grve-simple grve-bg-primary-1" aria-label="Instagram" target="_blank" rel="noopener noreferrer">
                                             <i class="grve-text-white fa fa-instagram"></i>
                                         </a>
                                     </li>
                                     <li>
-                                        <a href="https://www.linkedin.com/company/plastpac-com/" class="grve-extra-small grve-circle grve-with-shape grve-simple grve-bg-primary-1" aria-label="LinkedIn" target="_blank" rel="noopener noreferrer">
+                                        <a href="https://www.linkedin.com/company/" class="grve-extra-small grve-circle grve-with-shape grve-simple grve-bg-primary-1" aria-label="LinkedIn" target="_blank" rel="noopener noreferrer">
                                             <i class="grve-text-white fa fa-linkedin"></i>
                                         </a>
                                     </li>
@@ -34,7 +34,7 @@
                                 <div class="wpb_wrapper">
                                     &copy; <script type="text/javascript">
                                         document.write(new Date().getFullYear());
-                                    </script> Plastpac Inc. All rights reserved.
+                                    </script> Uno-plastics. Inc. All rights reserved.
                                 </div>
                             </div>
                         </div></div></div></div><div class="grve-background-wrapper"></div></div>			</div>
