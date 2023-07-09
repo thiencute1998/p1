@@ -1,3 +1,8 @@
+<style type="text/css">
+    #grve-responsive-header .grve-wrapper a{
+        height: 40px !important;
+    }
+</style>
 <header id="grve-header" class="grve-fullwidth" data-sticky="none" data-sticky-height="60" data-devices-sticky="no" data-devices-sticky-height="60">
     <div class="grve-wrapper clearfix">
 
